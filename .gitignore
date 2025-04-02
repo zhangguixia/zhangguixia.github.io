@@ -1,8 +1,21 @@
+# 排除自动生成内容
 .DS_Store
 Thumbs.db
-db.json
 *.log
-node_modules/
-public/
+db.json
 .deploy*/
-_multiconfig.yml
+
+# 保留但排除以下目录
+/node_modules/
+/public/
+
+# 必须保留的关键文件（使用!取消忽略）
+!/_config.*
+!/package.json
+!/scaffolds/
+!/source/
+!/themes/
+
+# 插件配置文件
+!/_config.butterfly.yml
+!/_config.landscape.yml
