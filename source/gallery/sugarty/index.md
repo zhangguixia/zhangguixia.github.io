@@ -1,5 +1,5 @@
 ---
-title: Sugarty场景联
+title: Sugarty场景
 date: 2025-01-05 10:20:14
 type: 'sugarty'  # 修正为标准的gallery类型
 # layout: 'gallery'  # 新增布局声明

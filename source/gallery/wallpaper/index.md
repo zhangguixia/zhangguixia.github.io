@@ -1,5 +1,5 @@
 ---
-title: 月亮与郁金香
+title: 收藏的一些壁紙
 date: 2025-01-05 10:20:14
 type: 'Shein'  # 修正为标准的gallery类型
 # layout: 'gallery'  # 新增布局声明

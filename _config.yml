@@ -103,7 +103,15 @@ theme: butterfly
 deploy:
   type: git
   repository: https://github.com/zhangguixia/zhangguixia.github.io.git
-  branch: main
+  branch: main # 静态文件分支
+
+  # - type: git
+  #   repository: https://github.com/zhangguixia/zhangguixia.github.io.git
+  #   branch: source # 源码分支
+  #   extend_dirs: /
+  #   ignore_hidden: false
+  #   ignore_pattern: 
+  #       public: false
 
 search:
   path: search.xml
