@@ -1,13 +1,8 @@
 inject:
   head:
     - <link rel="stylesheet" href="/css/waves.css">
+    # - <link rel="stylesheet" href="/css/movie-card.css">
 
 # 启用图片预览功能
 # medium_zoom: true
-# fancybox: false  # 两者任选其一
-
-# 可选：针对特定图片类型配置
-medium_zoom:
-  enable: true
-  # selector: .post-content img   # 选择需要预览的图片区域
-  delay: 500                    # 延迟加载时间
+# fancybox: false  # 两者任选其一              # 延迟加载时间

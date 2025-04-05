@@ -2,6 +2,7 @@
 title: Sugarty场景
 date: 2025-01-05 10:20:14
 type: 'sugarty'  # 修正为标准的gallery类型
+top_img: /galleryGroup/春日涟漪.jpeg
 # layout: 'gallery'  # 新增布局声明
 ---
 

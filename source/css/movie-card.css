@@ -1,0 +1,276 @@
+  
+.parallax > use {
+    animation: move-forever 25s cubic-bezier(0.55, 0.5, 0.45, 0.5) infinite;
+  }
+  .parallax > use:nth-child(1) {
+    animation-delay: -2s;
+    animation-duration: 7s;
+    fill: #f7f9febd;
+  }
+  .parallax > use:nth-child(2) {
+    animation-delay: -3s;
+    animation-duration: 10s;
+    fill: #f7f9fe82;
+  }
+  .parallax > use:nth-child(3) {
+    animation-delay: -4s;
+    animation-duration: 13s;
+    fill: #f7f9fe36;
+  }
+  .parallax > use:nth-child(4) {
+    animation-delay: -5s;
+    animation-duration: 20s;
+    fill: #f7f9fe;
+  }
+  /* 黑色模式背景 */
+  [data-theme="dark"] .parallax > use:nth-child(1) {
+    animation-delay: -2s;
+    animation-duration: 7s;
+    fill: #18171dc8;
+  }
+  [data-theme="dark"] .parallax > use:nth-child(2) {
+    animation-delay: -3s;
+    animation-duration: 10s;
+    fill: #18171d80;
+  }
+  [data-theme="dark"] .parallax > use:nth-child(3) {
+    animation-delay: -4s;
+    animation-duration: 13s;
+    fill: #18171d3e;
+  }
+  [data-theme="dark"] .parallax > use:nth-child(4) {
+    animation-delay: -5s;
+    animation-duration: 20s;
+    fill: #18171d;
+  }
+  
+  @keyframes move-forever {
+    0% {
+      transform: translate3d(-90px, 0, 0);
+    }
+    100% {
+      transform: translate3d(85px, 0, 0);
+    }
+  }
+  /*Shrinking for mobile*/
+  @media (max-width: 768px) {
+    .waves-area .waves-svg {
+      height: 40px;
+      min-height: 40px;
+    }
+  }
+
+/* 添加动画性能优化 */
+.parallax > use {
+  will-change: transform;
+}
+
+/* 修正暗色模式选择器 */
+.dark .parallax > use {
+  fill-opacity: 0.6;  /* 示例值，根据实际需求调整 */
+}
+
+/* 电影卡片样式 */
+/* 电影卡片容器 */
+.movie-card {
+  display: flex;
+  gap: 2rem;
+  margin: 2rem 0;
+  padding: 2rem;
+  background: var(--card-bg);
+  border-radius: 12px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+}
+
+/* 左侧图片区域 */
+.card-left {
+  flex: 0 0 35%;
+  position: relative;
+}
+
+.movie-poster {
+  width: 100%;
+  height: 200px;
+  border-radius: 8px;
+  object-fit: cover;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.movie-info {
+  margin-top: 1.5rem;
+}
+
+/* 右侧详细信息 */
+.card-right {
+  flex: 1;
+  padding: 0 1rem;
+}
+
+/* 响应式布局 */
+@media (max-width: 768px) {
+  .movie-card {
+    flex-direction: column;
+    padding: 1.5rem;
+  }
+  
+  .card-left {
+    flex: none;
+  }
+  
+  .movie-poster {
+    height: 200px;
+  }
+}
+
+/* 元数据样式 */
+.meta-grid {
+  display: grid;
+  gap: 0.8rem;
+  margin-top: 1.2rem;
+}
+
+.meta-item {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: var(--text-color);
+  font-size: 0.95em;
+}
+
+/* 详细信息网格 */
+.detail-grid {
+  display: grid;
+  gap: 1.2rem;
+}
+
+.detail-item {
+  display: flex;
+  gap: 0.8rem;
+  padding: 0.8rem 0;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.detail-item.fullwidth {
+  flex-direction: column;
+}
+
+label {
+  font-weight: 600;
+  color: var(--heo-main);
+  min-width: 80px;
+}
+
+/* 特殊元素样式 */
+.movie-title {
+  color: var(--heo-main);
+  margin: 0 0 0.5rem;
+  font-size: 1.8em;
+}
+
+.movie-rating {
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+}
+
+.comments {
+  color: #000000 !important;
+}
+
+.stars {
+  color: #ffe969;
+  font-size: 1em;
+}
+
+.score {
+  font-weight: bold;
+  color: var(--text-color);
+}
+
+.quote {
+  font-style: italic;
+  color: var(--heo-secondtext);
+  padding-left: 1rem;
+  border-left: 3px solid var(--heo-main);
+}
+
+.review {
+  line-height: 1.8;
+  color: var(--text-color);
+}
+
+/* 在原卡片样式基础上添加 */
+.movie-card.with-border {
+  position: relative;
+  border: 2px solid var(--heo-main);
+  border-radius: 12px;
+  padding: 2rem;
+  margin: 2rem 0;
+  box-shadow: 0 4px 15px rgba(var(--heo-main-rgb), 0.1);
+  border-color: #FFF3CD !important; 
+  border-bottom-width: 3px !important;
+}
+
+/* 添加装饰性分隔线 */
+.card-left::after {
+  content: '';
+  position: absolute;
+  right: -1rem;
+  top: 50%;
+  transform: translateY(-50%);
+  height: 80%;
+  width: 1px;
+  background: linear-gradient(180deg, 
+    transparent 0%, 
+    var(--heo-main) 50%, 
+    transparent 100%);
+}
+
+/* 移动端优化 */
+@media (max-width: 768px) {
+  .movie-card.with-border {
+    padding: 1.5rem;
+  }
+  .card-left::after {
+    display: none;
+  }
+}
+
+/* 修改边框颜色 */
+/* 修改前可能存在的问题 */
+.movie-card.with-border {
+  border: 2px solid #FFF3CD; /* 可能只设置了整体边框 */
+}
+
+/* 需要添加的底部特定样式 */
+.movie-card.with-border::after {
+  content: '';
+  display: block;
+  position: absolute;
+  bottom: -15px;
+  left: 5%;
+  right: 5%;
+  height: 8px;
+  background: linear-gradient(90deg, 
+    rgba(255,243,205,0.6) 0%, 
+    rgba(255,243,205,1) 50%, 
+    rgba(255,243,205,0.6) 100%);
+  border-radius: 4px;
+  z-index: -1;
+}
+
+/* 修改分隔线颜色 */
+.card-left::after {
+  background: linear-gradient(180deg, 
+    transparent 0%, 
+    #FFF3CD 50%,  /* 淡黄色分隔线 */
+    transparent 100%);
+}
+
+/* 修改角标颜色 */
+.movie-frame::before {
+  background: #FFF3CD;  /* 淡黄背景 */
+  color: #664D03;        /* 深棕文字 */
+  border: 1px solid #FFECB3; /* 辅助边框 */
+}

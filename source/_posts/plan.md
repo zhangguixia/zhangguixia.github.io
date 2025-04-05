@@ -4,8 +4,8 @@ tags:
   - 计划
   - 成长 
 categories:
-  - 更好的自己
-keywords: "Hexo,重新部署,恢復"
+  - 做自己
+keywords: "成为更好的自己"
 abbrlink: dda8c81b
 date: 2025-01-01 00:00:00
 description:
@@ -15,7 +15,7 @@ sticky: 1
 toc_number: true
 ---
 
-# 立个flag，年底我们都要成为了不起的自己！
+## 立个flag，年底我们都要成为了不起的自己！
 
 ---------------------------------------------------
 {% img /images/2025flag.jpg 300 '"人生重启计划" "2025年度flag示意图"' %}
