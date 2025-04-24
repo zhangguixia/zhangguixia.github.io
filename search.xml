@@ -26,6 +26,24 @@
       </tags>
   </entry>
   <entry>
+    <title>Hello World</title>
+    <url>/2025/01/05/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
     <title>峡谷考古学家</title>
     <url>/2025/10/28/honor-of-Kings/</url>
     <content><![CDATA[<h1 id="王者十年玩家，逆风局才是人生必修课（先挖个坑）"><a href="#王者十年玩家，逆风局才是人生必修课（先挖个坑）" class="headerlink" title="王者十年玩家，逆风局才是人生必修课（先挖个坑）"></a>王者十年玩家，逆风局才是人生必修课（先挖个坑）</h1>]]></content>
@@ -34,30 +52,6 @@
       </categories>
       <tags>
         <tag>Game</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>提前布局2025</title>
-    <url>/2025/01/01/plan/</url>
-    <content><![CDATA[<h2 id="立个flag，年底我们都要成为了不起的自己！"><a href="#立个flag，年底我们都要成为了不起的自己！" class="headerlink" title="立个flag，年底我们都要成为了不起的自己！"></a>立个flag，年底我们都要成为了不起的自己！</h2><hr>
-<img src="/images/2025flag.jpg" class="" width="300" title="人生重启计划" alt="2025年度flag示意图">
-<!-- ![2025年人生重启计划](/images/2025flag.jpg) 另一种图片编写语法--> 
-
-<h2 id="个人成长"><a href="#个人成长" class="headerlink" title="个人成长"></a>个人成长</h2><p>Personal growth<br>提升认知&#x2F;能力&#x2F;眼界和心灵的成长</p>
-<h2 id="自我实现"><a href="#自我实现" class="headerlink" title="自我实现"></a>自我实现</h2><p>self-actualization<br>发挥个人优势，实现个人价值</p>
-<h2 id="职业发展"><a href="#职业发展" class="headerlink" title="职业发展"></a>职业发展</h2><p>Career development<br>新的一年你的职业发展和规划</p>
-<h2 id="财务状况"><a href="#财务状况" class="headerlink" title="财务状况"></a>财务状况</h2><p>Financial position<br>你的财务分布和L财规划</p>
-<h2 id="个人健康"><a href="#个人健康" class="headerlink" title="个人健康"></a>个人健康</h2><p>Personal health<br>你的身心健康和饮食作息</p>
-<h2 id="娱乐休闲"><a href="#娱乐休闲" class="headerlink" title="娱乐休闲"></a>娱乐休闲</h2><p>Recreation<br>你的兴趣爱好&#x2F;摄影&#x2F;健身</p>
-<h3 id="电影"><a href="#电影" class="headerlink" title="电影"></a>电影</h3><h3 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h3><h3 id="游戏"><a href="#游戏" class="headerlink" title="游戏"></a>游戏</h3><h2 id="家庭生活"><a href="#家庭生活" class="headerlink" title="家庭生活"></a>家庭生活</h2><p>Family life<br>父母子女伴侣家庭关系…</p>
-<h2 id="社交人际"><a href="#社交人际" class="headerlink" title="社交人际"></a>社交人际</h2><p>Social interpersonal<br>同事&#x2F;朋友等社交活动人脉资源</p>
-]]></content>
-      <categories>
-        <category>做自己</category>
-      </categories>
-      <tags>
-        <tag>计划</tag>
-        <tag>成长</tag>
       </tags>
   </entry>
   <entry>
@@ -244,7 +238,7 @@
       </div>
       <br>
       <div class="detail-item fullwidth">
-        <label>观后感：这次除了以往的搞笑写、悬疑等元素，还融入了爱过情怀，展现了一段不为人知的故事。除了主角以外，让人眼前一亮的是费洋古，这个看似草包的“搞笑担当”，却在八国联军攻陷北京的消息传来时，彻底觉醒。尤其是临死前那句“救中国”，在最后用生命喊出时代最强音，在此刻情感得到了升华。这波反差，导演太会刀了。还有白振邦和爱丽丝之间跨越偏见的爱情；舍弃小我，坚持内心正义，努力为改变国家的命运而奋斗的革命意志，令人深刻。</label>
+        <label>观后感：这次除了以往的搞笑写、悬疑等元素，还融入了爱国情怀，展现了一段不为人知的故事。除了主角以外，让人眼前一亮的是费洋古，这个看似草包的“搞笑担当”，却在八国联军攻陷北京的消息传来时，彻底觉醒。尤其是临死前那句“救中国”，在最后用生命喊出时代最强音，在此刻情感得到了升华。这波反差，导演太会刀了。还有白振邦和爱丽丝之间跨越偏见的爱情；舍弃小我，坚持内心正义，努力为改变国家的命运而奋斗的革命意志，令人深刻。</label>
       </div>
     </div>
   </div>
@@ -368,21 +362,27 @@
       </tags>
   </entry>
   <entry>
-    <title>Hello World</title>
-    <url>/2025/01/05/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+    <title>提前布局2025</title>
+    <url>/2025/01/01/plan/</url>
+    <content><![CDATA[<h2 id="立个flag，年底我们都要成为了不起的自己！"><a href="#立个flag，年底我们都要成为了不起的自己！" class="headerlink" title="立个flag，年底我们都要成为了不起的自己！"></a>立个flag，年底我们都要成为了不起的自己！</h2><hr>
+<img src="/images/2025flag.jpg" class="" width="300" title="人生重启计划" alt="2025年度flag示意图">
+<!-- ![2025年人生重启计划](/images/2025flag.jpg) 另一种图片编写语法--> 
 
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+<h2 id="个人成长"><a href="#个人成长" class="headerlink" title="个人成长"></a>个人成长</h2><p>Personal growth<br>提升认知&#x2F;能力&#x2F;眼界和心灵的成长</p>
+<h2 id="自我实现"><a href="#自我实现" class="headerlink" title="自我实现"></a>自我实现</h2><p>self-actualization<br>发挥个人优势，实现个人价值</p>
+<h2 id="职业发展"><a href="#职业发展" class="headerlink" title="职业发展"></a>职业发展</h2><p>Career development<br>新的一年你的职业发展和规划</p>
+<h2 id="财务状况"><a href="#财务状况" class="headerlink" title="财务状况"></a>财务状况</h2><p>Financial position<br>你的财务分布和L财规划</p>
+<h2 id="个人健康"><a href="#个人健康" class="headerlink" title="个人健康"></a>个人健康</h2><p>Personal health<br>你的身心健康和饮食作息</p>
+<h2 id="娱乐休闲"><a href="#娱乐休闲" class="headerlink" title="娱乐休闲"></a>娱乐休闲</h2><p>Recreation<br>你的兴趣爱好&#x2F;摄影&#x2F;健身</p>
+<h3 id="电影"><a href="#电影" class="headerlink" title="电影"></a>电影</h3><h3 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h3><h3 id="游戏"><a href="#游戏" class="headerlink" title="游戏"></a>游戏</h3><h2 id="家庭生活"><a href="#家庭生活" class="headerlink" title="家庭生活"></a>家庭生活</h2><p>Family life<br>父母子女伴侣家庭关系…</p>
+<h2 id="社交人际"><a href="#社交人际" class="headerlink" title="社交人际"></a>社交人际</h2><p>Social interpersonal<br>同事&#x2F;朋友等社交活动人脉资源</p>
 ]]></content>
+      <categories>
+        <category>做自己</category>
+      </categories>
+      <tags>
+        <tag>成长</tag>
+        <tag>计划</tag>
+      </tags>
   </entry>
 </search>
