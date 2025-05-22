@@ -1,0 +1,32 @@
+.cantonese-table {
+    margin: 2rem 0;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  }
+  
+  .cantonese-table th {
+    background: #1E90FF;  /* 首行蓝色 */
+    color: white;
+    padding: 12px;
+    font-weight: 600;
+  }
+  
+  .cantonese-table tr:nth-child(odd) {  /* 单数行 */
+    background: #F0F8FF;  /* 淡蓝色 */
+  }
+  
+  .cantonese-table tr:nth-child(even) {  /* 双数行 */
+    background: white;
+  }
+  
+  .cantonese-table td {
+    padding: 12px;
+    border-bottom: 1px solid #E0E0E0;
+  }
+  
+  @media (max-width: 768px) {
+    .cantonese-table table {
+      width: 100% !important;
+    }
+  }
