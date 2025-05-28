@@ -1,32 +1,64 @@
+  /* 每两行交替样式 */
 .cantonese-table {
     margin: 2rem 0;
     border-radius: 8px;
     overflow: hidden;
     box-shadow: 0 2px 8px rgba(0,0,0,0.1);
   }
-  
   .cantonese-table th {
     background: #1E90FF;  /* 首行蓝色 */
     color: white;
     padding: 12px;
     font-weight: 600;
   }
-  
   .cantonese-table tr:nth-child(odd) {  /* 单数行 */
     background: #F0F8FF;  /* 淡蓝色 */
   }
-  
   .cantonese-table tr:nth-child(even) {  /* 双数行 */
     background: white;
   }
-  
   .cantonese-table td {
     padding: 12px;
     border-bottom: 1px solid #E0E0E0;
   }
-  
   @media (max-width: 768px) {
     .cantonese-table table {
       width: 100% !important;
     }
   }
+
+
+  /* 新增三行交替样式 */
+.three-rows-table {
+  margin: 2rem 0;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.three-rows-table th {
+  background: #4CAF50; /* 绿色表头 */
+  color: white;
+  padding: 12px;
+  font-weight: 600;
+}
+
+.three-rows-table tr:nth-child(6n+1),
+.three-rows-table tr:nth-child(6n+2),
+.three-rows-table tr:nth-child(6n+3) {
+  background: #ffffff; /* 浅灰色背景 */
+}
+.three-rows-table tr:nth-child(6n+4),
+.three-rows-table tr:nth-child(6n+5),
+.three-rows-table tr:nth-child(6n+6) {
+  background: #b3d7b4; /* 浅灰色背景 */
+}
+.three-rows-table tr:nth-child(6n+7),
+.three-rows-table tr:nth-child(6n+8),
+.three-rows-table tr:nth-child(6n+9) {
+  background: #ffffff; /* 白色背景 */
+}
+.three-rows-table td {
+  padding: 12px;
+  border-bottom: 1px solid #E0E0E0;
+}
