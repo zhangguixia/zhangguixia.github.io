@@ -103,22 +103,132 @@
       </tags>
   </entry>
   <entry>
-    <title>Hello World</title>
-    <url>/2025/01/05/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+    <title>峡谷考古学家</title>
+    <url>/2025/10/28/honor-of-Kings/</url>
+    <content><![CDATA[ <!-- <link rel="stylesheet" href="/css/timeline-vine.css">   //在_config.butterfly.yml中引入 -->
 
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<h1 id="王者十年玩家，逆风局才是人生必修课（先挖个坑）"><a href="#王者十年玩家，逆风局才是人生必修课（先挖个坑）" class="headerlink" title="王者十年玩家，逆风局才是人生必修课（先挖个坑）"></a>王者十年玩家，逆风局才是人生必修课（先挖个坑）</h1>　　从16年打王者荣耀，到2025年已经有十个年头了，当年确实很火，可以说推动了全民电竞时代。作为一个游戏爱好者，一般有新游戏都会玩一玩，像和平精英、恋与制作人、原神等都玩过一阵儿、但一直没有放弃的唯有王者，它貌似承载了我一部分的青春，更喜欢那不到最后一刻，绝不放弃的精神，最后绝地翻盘的喜悦；当然，还有一种可能是因为我充钱了放不下哈哈。<br><br>
 
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+<p>王者十年玩家时间线：</p>
+<div class="timeline-vine">
+  <div class="timeline-item">
+    <div class="timeline-dot"></div>
+    <div class="timeline-content">
+      <div class="timeline-date">2016.09</div>
+      <h3>初入峡谷</h3>
+      <p>与大学舍友组队开黑，开启王者征程</p>
+    </div>
+  </div>
+  
+  <div class="timeline-item">
+    <div class="timeline-dot"></div>
+    <div class="timeline-content">
+      <div class="timeline-date">2018.03</div>
+      <h3>首上王者</h3>
+      <p>使用貂蝉达成单排王者成就</p>
+    </div>
+  </div>
 
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+  <!-- 更多时间节点... -->
+</div>
 
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+
+
+<h3 id="2016年9月14日-初入峡谷"><a href="#2016年9月14日-初入峡谷" class="headerlink" title="2016年9月14日 初入峡谷"></a>2016年9月14日 初入峡谷</h3>　　这款游戏推出时间是在2015年11月26日，第一次了解到王者荣耀是刚高考完那会儿朋友提起，当时还不知道什么是回城、什么是峡谷。真正开始玩是在2016年9月14日 和大学舍友一起组队开黑。记得当时十分痴迷，下课回宿舍就是相约组队。
+
+<p>起名：带风<br>【2022年 部门组织的王者大赛】</p>
+<p>可能是当时太过辉煌，对比现在的王者，感觉它渐渐丢失了初心。就像大家的玩笑话：用心在赚钱，用脚做游戏。</p>
+<p>小故事：记得有一次玩百里守约，中路小乔被敌方追着打，我当时神枪手附体 狙了一枪，反倒让小乔妹子成功反杀了。队友发言：”被百里英雄救美了。”小乔妹子傲骄地说了一句：”我方有守约呢，哼！”。最后也拿下了胜利，出去后妹子邀我一起玩，但我不好回应就匆匆下线了，因为我的帐号是性别男，线下却也是女生，可不想让别人误会了😂<br><br></p>
+　　回顾这十年的王者之旅，感慨万千。想起了那些一起并肩作战过的队友，有的虽然已经失去了联系，但曾经一起在峡谷里的回忆却无比珍贵。看着自己的游戏账号，里面的英雄、皮肤、段位等都像是你这十年游戏生涯的勋章。如今，游戏对我来说不仅仅是一种娱乐方式，更像是一位陪伴了十年的老友，它见证了你的青春、成长和欢笑，我也期待着未来能继续在王者峡谷书写新的故事✍️。]]></content>
+      <categories>
+        <category>王者荣耀 游戏</category>
+      </categories>
+      <tags>
+        <tag>Game</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>提前布局2025</title>
+    <url>/2025/01/01/plan/</url>
+    <content><![CDATA[<h2 id="立个flag，年底我们都要成为了不起的自己！"><a href="#立个flag，年底我们都要成为了不起的自己！" class="headerlink" title="立个flag，年底我们都要成为了不起的自己！"></a>立个flag，年底我们都要成为了不起的自己！</h2><hr>
+<img src="/images/2025flag.jpg" class="" width="300" title="人生重启计划" alt="2025年度flag示意图">
+<!-- ![2025年人生重启计划](/images/2025flag.jpg) 另一种图片编写语法--> 
+
+<h2 id="个人成长"><a href="#个人成长" class="headerlink" title="个人成长"></a>个人成长</h2><p>Personal growth<br>提升认知&#x2F;能力&#x2F;眼界和心灵的成长</p>
+<h3 id="2025年目标清单"><a href="#2025年目标清单" class="headerlink" title="2025年目标清单"></a>2025年目标清单</h3><table>
+<thead>
+<tr>
+<th>分类</th>
+<th>任务描述</th>
+<th>状态</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>个人成长</td>
+<td>每月阅读1本书籍</td>
+<td>[ ]</td>
+</tr>
+<tr>
+<td>个人成长</td>
+<td>学习Python编程</td>
+<td>[ ]</td>
+</tr>
+<tr>
+<td>职业发展</td>
+<td>更新专业技能证书</td>
+<td>[ ]</td>
+</tr>
+<tr>
+<td>职业发展</td>
+<td>参加3次行业研讨会</td>
+<td>[ ]</td>
+</tr>
+<tr>
+<td>财务状况</td>
+<td>建立紧急备用金</td>
+<td>[ ]</td>
+</tr>
+<tr>
+<td>财务状况</td>
+<td>学习基础投资理财知识</td>
+<td>[ ]</td>
+</tr>
+<tr>
+<td>个人健康</td>
+<td>每周运动3次，每次30分钟</td>
+<td>[ ]</td>
+</tr>
+<tr>
+<td>个人健康</td>
+<td>保持每晚7-8小时睡眠</td>
+<td>[ ]</td>
+</tr>
+<tr>
+<td>家庭生活</td>
+<td>每季度安排一次家庭活动</td>
+<td>[ ]</td>
+</tr>
+<tr>
+<td>社交人际</td>
+<td>拓展5个行业人脉</td>
+<td>[ ]</td>
+</tr>
+</tbody></table>
+<h2 id="自我实现"><a href="#自我实现" class="headerlink" title="自我实现"></a>自我实现</h2><p>self-actualization<br>发挥个人优势，实现个人价值</p>
+<h2 id="职业发展"><a href="#职业发展" class="headerlink" title="职业发展"></a>职业发展</h2><p>Career development<br>新的一年你的职业发展和规划</p>
+<h2 id="财务状况"><a href="#财务状况" class="headerlink" title="财务状况"></a>财务状况</h2><p>Financial position<br>你的财务分布和L财规划</p>
+<h2 id="个人健康"><a href="#个人健康" class="headerlink" title="个人健康"></a>个人健康</h2><p>Personal health<br>你的身心健康和饮食作息</p>
+<h2 id="娱乐休闲"><a href="#娱乐休闲" class="headerlink" title="娱乐休闲"></a>娱乐休闲</h2><p>Recreation<br>你的兴趣爱好&#x2F;摄影&#x2F;健身</p>
+<h3 id="电影"><a href="#电影" class="headerlink" title="电影"></a>电影</h3><h3 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h3><h3 id="游戏"><a href="#游戏" class="headerlink" title="游戏"></a>游戏</h3><h2 id="家庭生活"><a href="#家庭生活" class="headerlink" title="家庭生活"></a>家庭生活</h2><p>Family life<br>父母子女伴侣家庭关系…</p>
+<h2 id="社交人际"><a href="#社交人际" class="headerlink" title="社交人际"></a>社交人际</h2><p>Social interpersonal<br>同事&#x2F;朋友等社交活动人脉资源</p>
 ]]></content>
+      <categories>
+        <category>做自己</category>
+      </categories>
+      <tags>
+        <tag>计划</tag>
+        <tag>成长</tag>
+      </tags>
   </entry>
   <entry>
     <title>2025 Movie电影存档</title>
@@ -664,135 +774,6 @@
       </tags>
   </entry>
   <entry>
-    <title>峡谷考古学家</title>
-    <url>/2025/10/28/honor-of-Kings/</url>
-    <content><![CDATA[ <!-- <link rel="stylesheet" href="/css/timeline-vine.css">   //在_config.butterfly.yml中引入 -->
-
-<h1 id="王者十年玩家，逆风局才是人生必修课（先挖个坑）"><a href="#王者十年玩家，逆风局才是人生必修课（先挖个坑）" class="headerlink" title="王者十年玩家，逆风局才是人生必修课（先挖个坑）"></a>王者十年玩家，逆风局才是人生必修课（先挖个坑）</h1><!-- 　　从16年打王者荣耀，到2025年已经有十个年头了，当年确实很火，可以说推动了全民电竞时代。作为一个游戏爱好者，一般有新游戏都会玩一玩，像和平精英、恋与制作人、原神等都玩过一阵儿、但一直没有放弃的唯有王者，它貌似承载了我一部分的青春，更喜欢那不到最后一刻，绝不放弃的精神，最后绝地翻盘的喜悦；当然，还有一种可能是因为我充钱了放不下哈哈。<br><br>
-
-<p>王者十年玩家时间线：</p>
-<div class="timeline-vine">
-  <div class="timeline-item">
-    <div class="timeline-dot"></div>
-    <div class="timeline-content">
-      <div class="timeline-date">2016.09</div>
-      <h3>初入峡谷</h3>
-      <p>与大学舍友组队开黑，开启王者征程</p>
-    </div>
-  </div>
-  
-  <div class="timeline-item">
-    <div class="timeline-dot"></div>
-    <div class="timeline-content">
-      <div class="timeline-date">2018.03</div>
-      <h3>首上王者</h3>
-      <p>使用貂蝉达成单排王者成就</p>
-    </div>
-  </div>
-
-  <!-- 更多时间节点... -->
-</div> -->
-
-
-
-<!-- ### 2016年9月14日 初入峡谷
-　　这款游戏推出时间是在2015年11月26日，第一次了解到王者荣耀是刚高考完那会儿朋友提起，当时还不知道什么是回城、什么是峡谷。真正开始玩是在2016年9月14日 和大学舍友一起组队开黑。记得当时十分痴迷，下课回宿舍就是相约组队。
-
-<p>起名：带风<br>【2022年 部门组织的王者大赛】</p>
-<p>可能是当时太过辉煌，对比现在的王者，感觉它渐渐丢失了初心。就像大家的玩笑话：用心在赚钱，用脚做游戏。</p>
-<p>小故事：记得有一次玩百里守约，中路小乔被敌方追着打，我当时神枪手附体 狙了一枪，反倒让小乔妹子成功反杀了。队友发言：”被百里英雄救美了。”小乔妹子傲骄地说了一句：”我方有守约呢，哼！”。最后也拿下了胜利，出去后妹子邀我一起玩，但我不好回应就匆匆下线了，因为我的帐号是性别男，线下却也是女生，可不想让别人误会了😂<br><br></p>
-　　回顾这十年的王者之旅，感慨万千。想起了那些一起并肩作战过的队友，有的虽然已经失去了联系，但曾经一起在峡谷里的回忆却无比珍贵。看着自己的游戏账号，里面的英雄、皮肤、段位等都像是你这十年游戏生涯的勋章。如今，游戏对我来说不仅仅是一种娱乐方式，更像是一位陪伴了十年的老友，它见证了你的青春、成长和欢笑，我也期待着未来能继续在王者峡谷书写新的故事✍️。 -->]]></content>
-      <categories>
-        <category>王者荣耀 游戏</category>
-      </categories>
-      <tags>
-        <tag>Game</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>提前布局2025</title>
-    <url>/2025/01/01/plan/</url>
-    <content><![CDATA[<h2 id="立个flag，年底我们都要成为了不起的自己！"><a href="#立个flag，年底我们都要成为了不起的自己！" class="headerlink" title="立个flag，年底我们都要成为了不起的自己！"></a>立个flag，年底我们都要成为了不起的自己！</h2><hr>
-<img src="/images/2025flag.jpg" class="" width="300" title="人生重启计划" alt="2025年度flag示意图">
-<!-- ![2025年人生重启计划](/images/2025flag.jpg) 另一种图片编写语法--> 
-
-<h2 id="个人成长"><a href="#个人成长" class="headerlink" title="个人成长"></a>个人成长</h2><p>Personal growth<br>提升认知&#x2F;能力&#x2F;眼界和心灵的成长</p>
-<h3 id="2025年目标清单"><a href="#2025年目标清单" class="headerlink" title="2025年目标清单"></a>2025年目标清单</h3><table>
-<thead>
-<tr>
-<th>分类</th>
-<th>任务描述</th>
-<th>状态</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>个人成长</td>
-<td>每月阅读1本书籍</td>
-<td>[ ]</td>
-</tr>
-<tr>
-<td>个人成长</td>
-<td>学习Python编程</td>
-<td>[ ]</td>
-</tr>
-<tr>
-<td>职业发展</td>
-<td>更新专业技能证书</td>
-<td>[ ]</td>
-</tr>
-<tr>
-<td>职业发展</td>
-<td>参加3次行业研讨会</td>
-<td>[ ]</td>
-</tr>
-<tr>
-<td>财务状况</td>
-<td>建立紧急备用金</td>
-<td>[ ]</td>
-</tr>
-<tr>
-<td>财务状况</td>
-<td>学习基础投资理财知识</td>
-<td>[ ]</td>
-</tr>
-<tr>
-<td>个人健康</td>
-<td>每周运动3次，每次30分钟</td>
-<td>[ ]</td>
-</tr>
-<tr>
-<td>个人健康</td>
-<td>保持每晚7-8小时睡眠</td>
-<td>[ ]</td>
-</tr>
-<tr>
-<td>家庭生活</td>
-<td>每季度安排一次家庭活动</td>
-<td>[ ]</td>
-</tr>
-<tr>
-<td>社交人际</td>
-<td>拓展5个行业人脉</td>
-<td>[ ]</td>
-</tr>
-</tbody></table>
-<h2 id="自我实现"><a href="#自我实现" class="headerlink" title="自我实现"></a>自我实现</h2><p>self-actualization<br>发挥个人优势，实现个人价值</p>
-<h2 id="职业发展"><a href="#职业发展" class="headerlink" title="职业发展"></a>职业发展</h2><p>Career development<br>新的一年你的职业发展和规划</p>
-<h2 id="财务状况"><a href="#财务状况" class="headerlink" title="财务状况"></a>财务状况</h2><p>Financial position<br>你的财务分布和L财规划</p>
-<h2 id="个人健康"><a href="#个人健康" class="headerlink" title="个人健康"></a>个人健康</h2><p>Personal health<br>你的身心健康和饮食作息</p>
-<h2 id="娱乐休闲"><a href="#娱乐休闲" class="headerlink" title="娱乐休闲"></a>娱乐休闲</h2><p>Recreation<br>你的兴趣爱好&#x2F;摄影&#x2F;健身</p>
-<h3 id="电影"><a href="#电影" class="headerlink" title="电影"></a>电影</h3><h3 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h3><h3 id="游戏"><a href="#游戏" class="headerlink" title="游戏"></a>游戏</h3><h2 id="家庭生活"><a href="#家庭生活" class="headerlink" title="家庭生活"></a>家庭生活</h2><p>Family life<br>父母子女伴侣家庭关系…</p>
-<h2 id="社交人际"><a href="#社交人际" class="headerlink" title="社交人际"></a>社交人际</h2><p>Social interpersonal<br>同事&#x2F;朋友等社交活动人脉资源</p>
-]]></content>
-      <categories>
-        <category>做自己</category>
-      </categories>
-      <tags>
-        <tag>成长</tag>
-        <tag>计划</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>陶笛的魔力</title>
     <url>/2025/05/31/taodi/</url>
     <content><![CDATA[<h2 id="当我拿起陶笛，邻居以为我在召唤神兽"><a href="#当我拿起陶笛，邻居以为我在召唤神兽" class="headerlink" title="当我拿起陶笛，邻居以为我在召唤神兽"></a>当我拿起陶笛，邻居以为我在召唤神兽</h2>　　]]></content>
@@ -866,6 +847,24 @@
       <tags>
         <tag>Tulip 郁金香</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2025/01/05/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
   </entry>
   <entry>
     <title>粤语学习笔记</title>
